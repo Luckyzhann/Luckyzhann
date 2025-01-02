@@ -1,4 +1,4 @@
-# Hi there, I'm Rancho 👋
+# Hi there, I'm LwZhan 👋
 
 I'm currently pursuing a Master's degree at the **School of Computer Science and Artificial Intelligence**, **Wuhan University of Technology**, Wuhan, China. My research interests are in:
 
